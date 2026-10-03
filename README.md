@@ -2,6 +2,12 @@
 
 Tradução comunitária não oficial da versão Steam de *Bullet Witch* para português do Brasil. O projeto trabalha sobre os textos ingleses do jogo. A tradução ainda está em fase inicial.
 
+## Tradução por IA — ainda sem revisão
+
+Estou usando o **GPT Astra** para ajudar na engenharia reversa dos arquivos de texto, na extração das falas e na tradução para PT-BR. Esse trabalho envolve estudar o formato dos textos e criar ferramentas de extração e reinserção; não é uma descompilação completa do jogo.
+
+A tradução atual é **MTL (Machine Translation, ou tradução automática)**, gerada com IA e **ainda sem revisão humana**. Pode conter erros de sentido, contexto, termos e naturalidade. A revisão será feita aos poucos, com o tempo e com a ajuda da comunidade, usando os CSVs deste repositório.
+
 ## Estado atual
 
 - `BW1_0100.bin`: cena de abertura traduzida. São 16 falas em duas tabelas internas de legendas.

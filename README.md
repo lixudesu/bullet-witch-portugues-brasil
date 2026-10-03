@@ -16,6 +16,12 @@ A tradução atual é **MTL (Machine Translation, ou tradução automática)**, 
 
 Os CSVs em `translation/` são os arquivos para tradução e revisão pública. As ferramentas em `tools/` geram arquivos `.bin` modificados a partir dos originais fornecidos por quem possui o jogo.
 
+## Planilha geral de textos
+
+`translation/all_text.csv` reúne os candidatos de texto dos 55 contêineres disponíveis, com o arquivo e os offsets para localizar cada entrada, o japonês como contexto quando existe, o inglês identificado, uma coluna vazia para PT-BR e a situação da entrada. `translation/extraction_inventory.csv` resume quantos registros foram encontrados em cada arquivo.
+
+As entradas marcadas como **sem par em inglês** precisam ser traduzidas a partir do japonês. Os candidatos de `res.bin` e `costxt*.bin` não têm fonte japonesa pareada e estão marcados para conferir idioma e duplicatas. `txtsamp.bin` é conteúdo de teste. Para atualizar as duas planilhas depois de adicionar os arquivos originais, execute `python tools/extract_all_text.py`.
+
 ## Gerar os patches localmente
 
 1. Use a versão Steam 1.0.5 do jogo. Copie **apenas** `data/text/BW1_0100.bin` e `data/text/rtevent.bin` da sua instalação para `source-original/data/text/` neste projeto.

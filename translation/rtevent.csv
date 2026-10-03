@@ -1,0 +1,308 @@
+﻿line,offset,voice,japanese,english,pt_br
+1,0x1EA83,VO_DRK_EVENT_ST1_01,本体は、あの都市にいるようだな,"It appears the main body is in that city.
+",O núcleo parece estar naquela cidade.
+2,0x1EBDA,VO_DRK_EVENT_ST4_00_A,"つくづく、騒ぐのが好きな連中よ
+もてなす側も大忙しだ","They truly do enjoy stirring up trouble.
+Their hosts have their hands full.",
+3,0x1EDDC,VO_DRK_EVENT_FIRSTBATTLE,"久々の生贄だがこんな汚い魂ではな
+魔力の足しにもならん","It's been awhile since I've had a sacrifice... Unfortunately,
+a tainted soul like this won't even fill up my spell power.",
+4,0x1F079,VO_DRK_EVENT_MAGIC_BUTTERFLY,"うっとうしい連中よ
+虫をまいてかく乱させてやれ",What a bunch of pests. Go and squash them like the bugs they are.,
+5,0x1F21A,VO_DRK_EVENT_MAGIC_MYST,危険な状況だ、　霧となり回避しろ,It's too dangerous here. Turn into mist to avoid them.,
+6,0x1F3A9,VO_DRK_EVENT_FIRST_KEKKAI,"あの結界はこいつが作ったようだな
+こざかしい","He must be the one who made that shield.
+How pathetic.",
+7,0x1F523,VO_DRK_EVENT_FIRST_KEKKAIOFF,結界が解けたようだ。　先へ進むとしよう,"It looks like the shield is down.
+Let's keep moving.",
+8,0x1F651,VO_DRK_EVENT_AFTER_MAGIC,ふふっ、愚かな奴らだ,"Heh heh, fools.",
+9,0x1F6DF,VO_DRK_EVENT_MAGIC_THUNDER,"並みの攻撃では、らちが明きそうも無いな
+ならば、ここは稲妻をつかえい！","Ordinary attacks won't do us any good here.
+Time to call down the thunder!",
+10,0x1F8EC,VO_DRK_EVENT_MAGIC_RAVENS,"カラスを呼べるようにしてやる！
+数には数なりの戦いがある事を見せつけてやろう","I've made it so you can summon the ravens!
+Let's show them that we can fight numbers with numbers.",
+11,0x1FB69,VO_DRK_EVENT_ST1_00,憩いの場が、いまや死体専用とは哀れな光景だな,"What a sad sight.
+The only ones
+who have any place to rest nowadays are the dead.",
+12,0x1FD81,VO_DRK_EVENT_ST1_02,"あの都市に渡る唯一の道がこの橋のようだ
+一筋縄では通れなさそうだな","This bridge seems to be the only road into the city.
+It probably won't be easy to cross.",
+13,0x1FFB3,VO_DRK_EVENT_FIRTS_SEA,"この海は猛毒で満たされているぞ！
+間違っても落ちるなよ","The ocean here is filled with deadly toxins.
+Make sure that you don't fall in!",
+14,0x2019F,VO_DRK_EVENT_ST1_03,並みの攻撃では、らちが明きそうも無いな,Ordinary attacks won't do us any good here.,
+15,0x202D2,VO_DRK_EVENT_ST1_04,大量の魔力を溜めるには、もっと生贄が必要だ,We need more sacrifices to gain more spell power.,
+16,0x20456,VO_DRK_EVENT_ST1_05,この数、厄介だな,So many... This is bad.,
+17,0x20517,VO_DRK_EVENT_ST1_06,この攻撃ではらちが明かんな,This attack isn't working.,
+18,0x205EC,VO_DRK_EVENT_ST2_02,"なんという事だ！
+奴の結界には我々の攻撃が通じないぞ！","What is this?!
+Our attacks aren't piercing it's shield!",
+19,0x20780,VO_DRK_EVENT_FIRST_TANK,"人間にとっては皮肉なものだな
+自らが作った兵器で殺されるとは","How ironic that humans should be killed
+using the very weapons they created.",
+20,0x20988,VO_DRK_EVENT_FIRST_BARRICADE,あの邪魔なバリケードを粉砕する事を優先しろ,Destroy that barricade that's in the way first.,
+21,0x20AD6,VO_DRK_EVENT_MAGIC_ARROW,離れた距離からの攻撃には、矢が有効だぞ,Arrows are effective when attacking from a long distance.,
+22,0x20C38,VO_DRK_EVENT_MAGIC_ROSE,愚かな密集隊形には　薔薇の裁きを加えてやるがいい,"If they're foolish enough to come in clusters,
+show them the error of their ways.",
+23,0x20E60,VO_DRK_EVENT_FIRTS_GIGAS,"あの巨体、近づかれればひとたまりもないな
+どこかに急所があるはずだ","We don't stand a chance if that giant gets too close to us.
+He's got to have a weak spot somewhere.",
+24,0x210CD,VO_DRK_EVENT_PRAISE_A,お見事,Nicely done...,
+25,0x21139,VO_DRK_EVENT_PRAISE_B,おまえにしては上出来だ,"That was pretty good, even for you.",
+26,0x2122B,VO_DRK_EVENT_FIRST_RESISTANCE,"ほう、これは驚きだ
+人間共に、まだ戦う意思をもっている連中がいるとはな","Well, this is a surprise.
+I didn't think there were any humans left with the will to fight.",
+27,0x21453,VO_DRK_EVENT_ST2_00,"この都市全体が、絶望で満たされているな
+壊滅も時間の問題だろう","This city is filled with despair. 
+It's only a matter of time before it's destroyed.",
+28,0x2166D,VO_DRK_EVENT_ST2_01,"都市全体のいたる所に結界が張りめぐらされている
+これは骨が折れるぞ","Everywhere we go in this city, there's a shield in the way.
+What a pain.",
+29,0x2186B,VO_DRK_EVENT_ST2_03,周りに身を隠す場所がなければ、作ればいいだろう,"If there's no cover nearby, you'll just have to make some.",
+30,0x219F0,VO_DRK_EVENT_ST5_00,"飛ぶ物との相性が悪いようだな
+我々と同乗した時、こいつらの命運は尽きていたという事か","You and aircraft apparently do not get along well.
+They had the unfortunate luck of riding with us.",
+31,0x21C4B,VO_DRK_EVENT_MAGIC_PUPET,ここは、奴らの体を乗っ取り、武器を利用してやるとしよう,Here we need to take over their bodies and use their weapons.,
+32,0x21DE4,VO_DRK_EVENT_ENCOUNT_03,"つくづく、不愉快な連中よ
+まず、この結界をなんとかせねばな","These guys certainly aren't very nice.
+Before we do anything, let's get rid of that shield.",
+33,0x22019,VO_DRK_EVENT_BOSS1_00,"このままでは、この機体がもたないぞ
+あの目の攻撃を封じるのだ！","At this rate our plane won't last much longer.
+You've got to stop the attacks coming from its eyes!",
+34,0x2228A,VO_DRK_EVENT_BOSS1_01,"奴は、この機体を噛み砕く気だ！
+口の中を攻撃すれば撃退できる！","It's trying to bite the plane!
+You can stop it if you shoot it in the mouth!",
+35,0x2246A,VO_DRK_EVENT_BOSS1_02,"外殻がかなり厚いとみえる
+稲妻を当てる以外に倒す術はないようだな！","That shell looks pretty thick. 
+I think the only way to take it down is by hitting it with thunder!",
+36,0x226BE,VO_DRK_EVENT_ST3_01,"とんだ邪魔がはいったようだ
+この結界を作り出してる奴を、先に倒すことにしよう","Looks like we've got some serious interference.
+Let's defeat the one creating this shield first.",
+37,0x22922,VO_DRK_EVENT_ST3_02,まずい！　この機体ごと噛み砕く気だ！,"This is bad!
+It's trying to bite the plane!",
+38,0x22A59,VO_DRK_EVENT_ST3_03,来るぞ！　撃ち落とせ！,Here it comes! Shoot it down!,
+39,0x22B16,VO_DRK_EVENT_ST3_04,まだ懲りんか！　アリシア、また奴が来るぞ！,"It still hasn't had enough?!
+Alicia, here it comes again!",
+40,0x22C8F,VO_DRK_EVENT_ST3_05,目玉の動きを見るのだ！　厄介なところから飛んでくるぞ！,"Watch it's eyes!
+It'll always attacks from our weakest position!",
+41,0x22E6A,VO_DRK_EVENT_ST3_06,このままでは、この鉄の塊が墓標となりそうだな,"If you don't do something soon, 
+this hunk of iron is going to be your grave-marker...",
+42,0x23041,VO_DRK_EVENT_ST3_07,急げ！　このままでは、機体ごと食い潰されてしまうぞ,"Hurry!
+At this rate he's going to chew the whole plane up!",
+43,0x231CF,VO_DRK_EVENT_ST3_08,馬鹿な奴だ、弱点を自らさらすとはな,"What a fool.
+To reveal his weak spot like that...",
+44,0x23335,VO_DRK_EVENT_ST3_09,我々は飛べないことを忘れるなよ,Don't forget that we can't fly.,
+45,0x2343B,VO_DRK_EVENT_ST3_10,この機体が落ちれば我々も共にやられることになる,"If this plane goes down, then we go down with it.",
+46,0x23585,VO_DRK_EVENT_ST3_11,この機体を護る事も忘れるな,Don't forget to protect the plane.,
+47,0x2367A,VO_DRK_EVENT_ST3_12,このままでは持たん！　周囲に張り付いてる奴を先に落とすのだ,"We can't just sit and wait!
+We've got to shoot down the one's surrounding us!",
+48,0x23886,VO_DRK_EVENT_ST5_01,"目標地点まで、まだかなり距離があるぞ
+用心してかかれ","We still have a lot of ground to cover
+before we reach our destination.
+Keep your guard up.",
+49,0x23A63,VO_DRK_EVENT_ST3_00,"騒ぐだけで無力な人間共よ
+滅びるのも当然の運命だな","Humans are all bark and no bite. 
+It's only natural that they should meet with destruction.",
+50,0x23C91,VO_DRK_EVENT_ST4_00_B,この位置から、橋を爆破できるのではないか？,Shouldn't you be able to destroy the bridge from here?,
+51,0x23E08,VO_DRK_EVENT_ENCOUNT_00,とことん、うっとうしい奴らよ,Could these idiots get any more annoying?,
+52,0x23F4D,VO_DRK_EVENT_MAGIC_TORNADE,"やむをえん！　竜巻をつかえるようにしてやる！
+奴ら全て巻き上げてやるがいい！","I have no choice!
+I grant you the power of the tornado! Send these fools flying!",
+53,0x2419E,VO_DRK_EVENT_ST4_01,"残った者どもが見当たらないな
+どこかに隠れているのだろう","I don't see any of the survivors... 
+They must be hiding somewhere.",
+54,0x24350,VO_DRK_EVENT_FIRST_RIVER,泳いで渡れると思うなよ,I hope you don't think you can swim across here.,
+55,0x24497,VO_DRK_EVENT_ST5_03,あの村の奥のようだ、例の森は,The forest should lie beyond this village.,
+56,0x245B9,VO_DRK_EVENT_ENCOUNT_01,"まさか、こんな大歓迎を受けるとは驚きだ
+少々にぎやか過ぎるがな","I certainly wasn't expecting a big welcome like this. 
+A little too cheery for my tastes, though.",
+57,0x24804,VO_DRK_EVENT_MAGIC_METEO,"アリシア！　真の力を出す時がきたぞ！
+隕石で奴らを火の海に沈めてやろう！","Alicia!
+The time has come to unleash your true power!
+Use the meteor to drown them in a sea of flame!",
+58,0x24A8E,VO_DRK_EVENT_AFTER_METEO,"ずいぶんと派手に壊したものだ
+これではどちらが、破壊者か分からんぞ","You certainly made a mess out of this place.
+It's difficult to tell which of you is more dangerous.",
+59,0x24CE2,VO_DRK_EVENT_BOSS2_03,"我等の攻撃が通じるようになったぞ！
+これまでの鬱憤晴らしてやろう！　","Our attacks work now!
+It's time to unleash your full rage!",
+60,0x24E92,VO_DRK_EVENT_BOSS2_04,"とどめをさしてやれ
+特大の奴でな",Now finish this...Behomoth.,
+61,0x24F83,VO_DRK_EVENT_ST6_00,"わずかの間にこの都市も様変わりしたようだ
+大気に毒素が混ざり、空の色も変色し始めている","The city has changed a great deal in a short time.
+The air is so filled with poison
+that it has changed the color of the sky.",
+62,0x25237,VO_DRK_EVENT_FIRST_CORPSE,"見飽きた光景だろう
+いまさら感傷的になることか？","If you've seen it so much, why did you get so emotional?",
+63,0x253C8,VO_DRK_EVENT_BOSS2_01,"まだ攻撃は無駄だ
+結界は厚く覆われている","Our attacks are still useless.
+It's shield is still too thick.",
+64,0x2558F,VO_DRK_EVENT_BOSS2_02,結界崩壊まであと少しだ,The shield is almost gone.,
+65,0x2565F,VO_DRK_EVENT_BOSS2_00,"連中が全滅すれば、打つ手がなくなる！
+アリシア、お前が囮となり奴を引きつけるのだ！","If they get wiped out we'll be in trouble!
+Alicia, use yourself as bait to lure it away from them!",
+66,0x258B9,VO_DRK_EVENT_ST6_01,また結界を張るつもりか！　奴の力の源を封じろ！,"It's trying to put up another shield!
+You need to cut off it's power source!",
+67,0x25AA7,VO_DRK_EVENT_ST6_02,アリシア、あまり近づきすぎると火傷するぞ！,"Alicia, you'll get burned if you get too close!",
+68,0x25BF0,VO_DRK_EVENT_ST6_03,背だ！　奴の背に向けて銃を放て！,"Shoot it's back!
+Get around and open fire on it from behind!",
+69,0x25D72,VO_DRK_EVENT_ST6_04,背中だ！　奴の背中に向けて銃を放て！,"It's back!
+Shoot it when it's back is turned!",
+70,0x25EBE,VO_DRK_EVENT_ST6_05,奴にも弱点はあるはずだ,It should have a weak point...,
+71,0x25FA7,VO_DRK_EVENT_ST6_06,"奴め、力を戻したか
+さっさと仕留めんからだ","Damn, it regained it's strength... 
+You didn't finish it off fast enough.",
+72,0x26176,VO_DRK_EVENT_ST6_07,あの邪魔な蛇どもを焼き払ってしまえ！,Fry those blasted snakes!,
+73,0x26267,VO_DRK_EVENT_ST6_08,今だ！　奴にとどめの魔法を喰らわせろ！,Now! Hit it with one final spell!,
+74,0x2637B,VO_DRK_EVENT_ST6_09,気をつけろ！　あの蛇どもに巻き込まれたらひとたまりもないぞ！,"Be careful!
+You're done for if those snakes wrap around you!",
+75,0x2654D,VO_DRK_EVENT_ST6_10,奴の結界にはどの魔力も効かぬとは,None of our magic works on it's shield...,
+76,0x26686,VO_DRK_EVENT_ST6_11,この場は人間どもに働いてもらうとしよう,Time to get some work out of the humans.,
+77,0x26797,VO_DRK_EVENT_FIRST_SNIPE,"遠方から狙われているようだな
+物陰に隠れながら進め ","There must be a sniper…
+Stick to the shadows and keep moving.",
+78,0x26953,VO_DRK_EVENT_NON_01,どうやら囲まれたようだな,"Well, it appears we've been surrounded.",
+79,0x26A4D,VO_DRK_EVENT_NON_02,ここは退いた方がよさそうだ,I think retreat is the best option at this point.,
+80,0x26B85,VO_DRK_EVENT_NON_03,時には退くことも必要だぞ,Discretion is the better part of valor.,
+81,0x26C9D,VO_DRK_EVENT_NON_04,ぬっ、待ち伏せか,"Grr, an ambush...",
+82,0x26D38,VO_DRK_EVENT_NON_05,ここは行けそうも無いな、他の道を探すとしよう,"This way is no good.
+Let's search for another route.",
+83,0x26E6F,VO_DRK_EVENT_DEAD_00,この程度だったとはな、失望したぞ,Is this all you've got? I'm disappointed.,
+84,0x26F8F,VO_DRK_EVENT_DEAD_01,なんと、うかつな,What a fool I was...,
+85,0x27042,VO_DRK_EVENT_DEAD_02,お前ごときを当てにした、私が愚かだったようだ,A fool to have faith in something as worthless as you...,
+86,0x2751C,VO_HM2_EVENT_ST1_00,"この壁はどんな爆弾でも破壊ができないんだ
+このままじゃ、わしらは袋のネズミだ","We can't break this wall no matter
+what type of explosive we use on it.
+At this rate, we'll be trapped like rats.",
+87,0x27CD8,VO_HR1_EVENT_ST3_00,こっちだ！　ここから地下に避難しろ！,"This way!
+You can escape underground through here!",
+88,0x27E1C,VO_HR1_EVENT_ST3_01,"くそ！　なんだって基地の方から敵がくる！？
+中の連中はどうなってるんだ！","Damn!
+Why are there enemies coming from the direction of the base?!
+Has something happened to the others?!",
+89,0x28096,VO_HR1_EVENT_ST3_02,なんてことだ！　てめーのアジトで待ち伏せくらうとはよ！,"How did this happen?!
+They've ambushed us at our own base!",
+90,0x28272,VO_HR1_EVENT_ST3_03,"俺達は、ここで後続の仲間をまつ
+さきに空港へ急いでくれ、後から合流する","We'll wait here for any stragglers.
+You hurry on ahead to the airport.
+We'll catch up to you there.",
+91,0x28589,VO_HR0A_EVENT_ST2_01,こっちだ！,Over here!,
+92,0x285F0,VO_HR0A_EVENT_ST2_02,ここに逃げ込め！！,Run this way!,
+93,0x2866E,VO_HR0A_EVENT_ST2_03,こっちなら奴も追ってこれない！　急げ！！,He can't follow us through here! Hurry!!,
+94,0x28790,VO_HR0A_EVENT_ST2_04,ここなら奴も追ってこれない！　急げ！！,We should be safe from him here! Hurry!!,
+95,0x288AE,VO_HR0A_EVENT_ST2_05,おい、あんた！　こっちだ！,"Hey, you! This way!",
+96,0x28957,VO_HR0A_EVENT_ST2_06,ここなら安全だ！！,We should be safe here!!,
+97,0x28B42,VO_HR0A_EVENT_ST4_01,"この橋の根元に爆薬がしかけてある！
+あれをなんとか爆破できれば追っ手をまけるぞ","There's explosives attached to the base of this bridge!
+If we could set them off somehow,
+we could get those freaks off our tail!",
+98,0x28E15,VO_HR0A_EVENT_ST4_03,橋の下の爆弾はここから狙えるはずだ,You should be able to aim at the explosives under the bridge from here.,
+99,0x28FBB,VO_HR0A_EVENT_ST4_04,爆弾のリモコンが効かない、あんたの力が必要だ,"The remote for the explosives doesn't work.
+We need your help.",
+100,0x29190,VO_HR0A_EVENT_ST4_06,爆破は合図があるまで待つんだ,Wait until the signal to set off the explosion.,
+101,0x292CA,VO_HR0A_EVENT_ST4_07,全員渡り終えるまで待つんだ,We have to wait until they have finished crossing.,
+102,0x29412,VO_HR0A_EVENT_ST4_08,全員渡り終えたぞ,They're all across.,
+103,0x294B6,VO_HR0A_EVENT_ST4_09,今だ！,Now!,
+104,0x29504,VO_HR0A_EVENT_ST4_10,どうした？　早くしろ,What's the matter? Do it now!,
+105,0x295C1,VO_HR0A_EVENT_ST4_11,何をやってんだ！　このままじゃ追いつかれちまう,"What the hell are you doing?!
+They're going to catch us at this rate!",
+106,0x2973F,VO_HR0A_EVENT_ST4_12,中央の隔壁を越えるまで耐えるんだ,Wait until they've passed the center barricade.,
+107,0x29892,VO_HR0A_EVENT_NON_37b,今のうちだ！　急げ！,Now's our chance! Hurry!,
+108,0x29973,VO_HR0A_EVENT_ST4_14,追いつかれる！　急げ！,They're almost on us! Hurry!,
+109,0x29A5B,VO_HR0A_EVENT_ST4_15,どんどん増えてきているぞ！,They just keep on coming!,
+110,0x29B17,VO_HR0A_EVENT_ST4_16,この先に司令部がある！　俺達について来い！,"Our headquarters are just ahead!
+Follow us!",
+111,0x29C5A,VO_HR0A_EVENT_ST4_17,あと少しだ、みんな頑張れ！,We're almost there. Hang in there everyone!,
+112,0x29D62,VO_HR0A_EVENT_ST4_18,早く橋から離れるんだ！！,"Get away from the bridge, now!!",
+113,0x29E37,VO_HR0A_EVENT_ST4_19,橋を爆破するぞ！,The bridge is going to explode!,
+114,0x29EF5,VO_HR0A_EVENT_ST4_20,橋の下に爆弾が見えるはずだ、よく狙ってくれ,"You should be able to see the explosives.
+Pick your shot well.",
+115,0x2A075,VO_HR0A_EVENT_ST4_21,歩けない者達は、機内に隠れていろ！　後で救出に向かう,"Anyone who can't walk,
+stay inside the plane!
+We'll come back for you later.",
+116,0x2A282,VO_HR0A_EVENT_ST4_22,俺達は機内で、歩けない者達の治療に当たる,We're going to stay with the plane and see to the injured.,
+117,0x2A3F2,VO_HR0A_EVENT_ST4_23,あんたは仲間と共に司令部に向かってくれ,You should go on to headquarters with the others.,
+118,0x2A52F,VO_HR0A_EVENT_NON_03,これだけ待ち構えてたってことは、俺達は核心に迫っているってことだな,"The fact that there were so many of them means
+ that we're getting closer to the center.",
+119,0x2A71F,VO_HR0A_EVENT_HELI,こんな所にまでヘリが！？,"A helicopter, here?!",
+120,0x2A7C6,VO_HR0A_EVENT_NON_04,なんとも嫌な予感のする空気だ！,Something in the air here makes me feel edgy!,
+121,0x2A906,VO_HR0A_EVENT_NON_06,もう、誰も生き残っていなさそうだな,It doesn't look like there were any survivors.,
+122,0x2AA2D,VO_HR0A_EVENT_ST5_01,"無事でしたか！
+先行している部隊がいるので、そちらに向かいましょう","Are you okay?
+There's a unit scouting ahead, so let's go catch up with them.",
+123,0x2ACE9,VO_HR0A_EVENT_NON_13,まだ残っている奴がいるはずだ,There's still some of them left.,
+124,0x2ADBD,VO_HR0A_EVENT_NON_14,民衆の安全を確保しろ,Make sure the civilians are safe.,
+125,0x2AEBD,VO_HR0A_EVENT_NON_15,仲間の合流を待て,Wait here and rendezvous with the others.,
+126,0x2AFAA,VO_HR0A_EVENT_NON_16,待て！　まだ早い！,Wait! Don't be hasty!,
+127,0x2B06D,VO_HR0A_EVENT_NON_17,ここは俺達に任せて、仲間の援護を頼む,Leave things here to us. Go and help the others.,
+128,0x2B1B7,VO_HR0A_EVENT_NON_18,ここは危険だ,This area is dangerous.,
+129,0x2B26E,VO_HR0A_EVENT_NON_19,ここから奥は危険だ,It's dangerous through here.,
+130,0x2B333,VO_HR0A_EVENT_NON_20,ここから先は危険だ,Things get dangerous up ahead.,
+131,0x2B40D,VO_HR0A_EVENT_NON_21,取り残された人達が居ないか良く探すんだ,Search for any civilians that might have been left behind.,
+132,0x2B569,VO_HR0A_EVENT_NON_22,敵はこの奥だ,The enemies are through here.,
+133,0x2B627,VO_HR0A_EVENT_NON_23,ターゲットはこの奥だ,The targets are through here.,
+134,0x2B6F5,VO_HR0A_EVENT_NON_24,目的地はこの奥だ,Our destination is through here.,
+135,0x2B7CD,VO_HR0A_EVENT_NON_25,敵はこの先だ,The enemies are up ahead.,
+136,0x2B884,VO_HR0A_EVENT_NON_26,ターゲットはこの先だ,The targets are up ahead.,
+137,0x2B94B,VO_HR0A_EVENT_NON_27,目的地はこの先だ,Our destination is up ahead.,
+138,0x2BA22,VO_HR0A_EVENT_NON_28,敵はこの上だ,The enemies are above us.,
+139,0x2BAE9,VO_HR0A_EVENT_NON_29,ターゲットはこの上だ,The targets are above us.,
+140,0x2BBBA,VO_HR0A_EVENT_NON_30,目的地はこの上だ,Our destination is above us.,
+141,0x2BC9B,VO_HR0A_EVENT_NON_31,敵はこの下だ,The enemies are below us.,
+142,0x2BD62,VO_HR0A_EVENT_NON_32,ターゲットはこの下だ,The targets are below us.,
+143,0x2BE3D,VO_HR0A_EVENT_NON_33,目的地はこの下だ,Our destination is below us.,
+144,0x2BF24,VO_HR0A_EVENT_NON_34,こっちに敵は居ないようだ,There doesn't seem to be any enemies here.,
+145,0x2C023,VO_HR0A_EVENT_NON_35,この先に敵は居ないようだ,There doesn't seem to be any enemies up ahead.,
+146,0x2C136,VO_HR0A_EVENT_NON_36,おい、ルートからはずれているぞ,"Hey, you're straying off the route!",
+147,0x2C221,VO_HR0A_EVENT_NON_37,よし！　こっちだ！,All right! Over here!,
+148,0x2C2D1,VO_HR0A_EVENT_NON_38,まだ敵は残っているはずだ！,There're still some enemies left!,
+149,0x2CA8F,VO_HW0_1_0250_R_010,たすけてー！　誰かー！　誰か！お願い！,Help! Someone! Please! Help!,
+150,0x2CB7E,VO_DRK_1_0250_R_020,"人間の一人二人助けた所で何になる？
+奴らは、たやすく増え、たやすく死ぬ、虫みたいなものだ","What is the point in saving one or two humans?
+They reproduce like insects and die just as easily.",
+151,0x2CDC3,VO_DRK_2_0450_V_010,厄介な。　今は分が悪い、退け！,"This is bad... We're at a disadvantage.
+You must run!",
+152,0x2CEF7,VO_PW0_2_0450_V_020,まだ、戦える！,I can still fight!,
+153,0x2CFA4,VO_DRK_2_0450_V_030,"だまれ！　奴ら全てを滅ぼすという目的を忘れたのか！
+今のお前では、奴に勝てぬ！","Silence!
+Have you forgotten that our goal is to destroy them all!
+You can't defeat it as you are now!",
+154,0x2D22B,VO_HR1_3_0100_R_010,よお、無事だったかい？　うまく逃げられたようだな,"Hey, so you're all right. Nice job getting away.",
+155,0x2D373,VO_HR1_3_0100_R_020,"アリシア、理由は知らないが、あんたも悪魔を倒そうとしてるんだろう？
+だったら、目的は俺達と一緒だ","Alicia, I don't know why, but you're trying to kill that demon too, right?
+That means we're on the same side.",
+156,0x2D629,VO_HR1_3_0100_R_030,この先に俺達の地下基地がある、そこで話がしたい,Our underground base is just up ahead. Let's talk there.,
+157,0x2D7A8,VO_HR1_3_0100_R_040,仲間もそこで待っている,Our friends are waiting there too.,
+158,0x2D895,VO_HR0C_3_0700_R_010,くそったれ！うじゃうじゃときりがねえ！,Godammit! We don't have time for this!,
+159,0x2D9B4,VO_HR1_3_0700_R_020,アリシア!　裏の地下道を通って先に空港へ急げ！　後から行く！,"Alicia!
+Take the underground passage to the airport!
+I'll follow later!!",
+160,0x2DBAF,VO_HR1_3_0700_R_030,"そこで仲間と合流して、飛行機で司令部へ向かう！
+ここで死んだら犬死だぞ！","We'll meet my friends there and head for HQ by plane!
+If we stay here, we'll die like dogs!",
+161,0x2DE2B,VO_HR1_4_0100_R_010,"やれやれ、まさか助かるとは思わなかったぜ
+ここからなら、司令部は歩いていける距離だ","Nice going. I didn't think we were going to make it.
+We're close enough to walk to the HQ from here.",
+162,0x2E0AE,VO_HR0B_4_0100_R_020,ここまでくれば、ひとまずは安全だな,"We've made it this far, so we can relax a little.",
+163,0x2E21C,VO_HR0C3_4_0100_R_30,"けが人とお年寄りの面倒をみます
+後で救助に来てください","I'll look after the old and injured.
+Please come back for us later.",
+164,0x2E3F0,VO_HR1_6_0400_R_010,"待ちくたびれて、来ちまったぜ
+アリシア、主役は出番が来るまで下がっててもらおうか","I got tired of waiting and decided to come.
+Alicia, maybe you should stand back until the real show starts.",
+165,0x2E68B,VO_HR1_6_0400_R_020,"聞け！　俺達の仕事は、奴の結界を剥がすことだ！
+Dフォーメーションで包囲して戦う！","Listen!
+Our job right now is to take care of that shield!
+Get in D-Formation, surround them and fight!",
+166,0x2E903,VO_HR1_6_0400_R_030,"生きようが死のうが地獄に悪魔だ！
+だったら、戦って死ね！　分かったか！","Alive or dead, your enemy is a demon from hell!
+So you may as well die fighting!
+Understand!?",
+167,0x2EC63,VO_PW0_1_0200_N_010,"ガイストの数が、ここにきてかなり増えている
+本体が近くにいる証拠ね","The number of Geists has increased since we got here.
+It's proof that the main body is near by.",
+168,0x2EEBE,VO_DRK_1_0200_N_020,"この、おびただしい死臭
+噂どおり…。　いや、それ以上の悪魔がいるようだな","That putrid stench of death.
+The demon here... It's even stronger than I feared.",
+169,0x2F0EA,VO_DRK_1_0200_N_030,この街も滅びる運命のようだ,It seems this city is also doomed to destruction.,

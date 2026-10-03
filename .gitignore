@@ -1,0 +1,15 @@
+# Arquivos do jogo e saídas locais nunca são publicados.
+*.bin
+*.cpr
+*.xwb
+*.ssu
+source-original/
+reference-korean/
+patch/
+build/
+notes/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*

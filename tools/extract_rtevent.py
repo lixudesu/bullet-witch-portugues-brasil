@@ -95,13 +95,13 @@ def main():
         "input",
         nargs="?",
         type=Path,
-        default=project / "source-original" / "data" / "text" / "rtevent.bin",
+        default=project / "arquivos" / "originais" / "data" / "text" / "rtevent.bin",
     )
     parser.add_argument(
         "output",
         nargs="?",
         type=Path,
-        default=project / "build" / "rtevent-extracted.csv",
+        default=project / "builds" / "rtevent-extracted.csv",
     )
     args = parser.parse_args()
     rows = extract_rows(args.input)

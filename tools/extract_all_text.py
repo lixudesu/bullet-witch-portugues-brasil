@@ -8,8 +8,8 @@ from pathlib import Path
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-SOURCE_DIR = PROJECT / "source-original/data/text"
-OUTPUT_DIR = PROJECT / "translation"
+SOURCE_DIR = PROJECT / "arquivos/originais/data/text"
+OUTPUT_DIR = PROJECT / "traducoes"
 MASTER_CSV = OUTPUT_DIR / "all_text.csv"
 INVENTORY_CSV = OUTPUT_DIR / "extraction_inventory.csv"
 

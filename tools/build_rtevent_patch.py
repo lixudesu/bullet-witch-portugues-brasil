@@ -75,9 +75,9 @@ def build(source, table, output):
 def main():
     project = Path(__file__).resolve().parents[1]
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", type=Path, default=project / "source-original/data/text/rtevent.bin")
-    parser.add_argument("--table", type=Path, default=project / "translation/rtevent.csv")
-    parser.add_argument("--output", type=Path, default=project / "patch/data/text/rtevent.bin")
+    parser.add_argument("--source", type=Path, default=project / "arquivos/originais/data/text/rtevent.bin")
+    parser.add_argument("--table", type=Path, default=project / "traducoes/rtevent.csv")
+    parser.add_argument("--output", type=Path, default=project / "patches/data/text/rtevent.bin")
     args = parser.parse_args()
     build(args.source, args.table, args.output)
 

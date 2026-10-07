@@ -5,9 +5,9 @@ from pathlib import Path
 
 
 project = Path(__file__).resolve().parents[1]
-source = project / "source-original/data/text/BW1_0100.bin"
-table = project / "translation/BW1_0100.csv"
-output = project / "patch/data/text/BW1_0100.bin"
+source = project / "arquivos/originais/data/text/BW1_0100.bin"
+table = project / "traducoes/BW1_0100.csv"
+output = project / "patches/data/text/BW1_0100.bin"
 
 original = source.read_bytes()
 if not original.startswith(b"STMANAGE"):
